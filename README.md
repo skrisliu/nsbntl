@@ -30,7 +30,7 @@ This is a critical step guide on reproducing the results.
 ```
 
 
-## Step 2: Processing and georeferencing the image data
+## Step 2: Process and georeference image data. 
 1. For ISS, read raw NEF image to 16-bit TIF, using this Python script: [readNEF.py](readNEF.py). 
 
 2. Download the OpenStreetMap data, or other georeferenced vector data or image data. 
