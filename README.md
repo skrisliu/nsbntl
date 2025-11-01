@@ -37,7 +37,7 @@ This is a critical step guide on reproducing the results.
 
 3. In ArcGIS, load the georeferenced image data first. Then, load the nonreferenced TIF image. Start georeferencing. You may find a tutorial on using this tool from the software provider. 
 
-4. Select 3-5 points roughly first to ensure the image is shown in the map. After 10 points, change to 3rd-order transformation. DO NOT USE SPLINE. The 3rd-order transformation allows for some uncertainty for each control point, and by placing control points within the image, they can cancel out each other, making sure no systematic bias coming from certain control points. Continue to work towards 30-40 points. It should be enough for a city the scale of Hong Kong. Double check RMSE from the table. Delete and reselect some control points with large RMSE. 
+4. Select 3-5 points roughly first to ensure the image is shown in the map. After 10 points, change to 3rd-order transformation. DO NOT USE SPLINE. The 3rd-order transformation allows for some uncertainty for each control point, and by placing control points randomly within the image, they can cancel out each other, making sure no systematic bias coming from certain control points. Continue to work towards 30-40 points. It should be enough for a city the scale of Hong Kong. Double check RMSE from the table. Delete and reselect some control points with large RMSE. 
 
 5. Output the georeferenced image, set the resolution to 0.001 degree (~111 m). You may change the resolution to a small value if the image captured with a large focal length. 
 
