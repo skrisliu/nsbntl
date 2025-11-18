@@ -11,7 +11,7 @@ This is a critical step guide on reproducing the results.
 
 2. ISS Image data can be downloaded at [https://eol.jsc.nasa.gov/searchphotos/](https://eol.jsc.nasa.gov/searchphotos/) via NASA/JSC Gateway to Astronaut Photography of Earth, a service provided by the International Space Station program and the JSC Earth Science \& Remote Sensing Unit, ARES Division. 
 
-3. Select a bounding box area including Hong Kong (22.4 N, 114.1 E). 
+3. Select a bounding box area including Hong Kong (22.28 N, 114.18 E). 
 
 4. Luojia-1 image data is unique by time. 
 ```
