@@ -43,6 +43,9 @@ This is a critical step guide on reproducing the results.
 
 6. Luojia-1 image data has a rough georeferencing, but not accurate enough. Need to georeference Luojia-1 image with similar steps. 
 
+The ready-to-use data is available at [this link](https://figshare.com/s/b18c261fe9caaf4c1d7b)
+(Please drop an email at skrisliu AT gmail.com if the link stops working).
+
 
 ## Step 3: Analysis
 7. Download the NSB data from the monitoring network. Note the time difference and make sure adjust for local time. 
